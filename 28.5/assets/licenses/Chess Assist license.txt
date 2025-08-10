@@ -1,0 +1,9 @@
+/*!
+ * Chess Assist (https://chessassist.net)
+ * Copyright (c) ENDGAME SOFTWARE, LLC. All rights reserved.
+ */
+
+"software" referring to Chess Assist
+
+This software is ineligible to copy, modify, merge, publish, 
+distribute, sublicense, and/or commercialize in any capacity.
